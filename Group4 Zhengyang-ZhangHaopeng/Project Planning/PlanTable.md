@@ -1,7 +1,7 @@
 | 组号 | G4     |
 |------|--------|
-|仓库链接 | https://github.com/ZhangHaopeng-Dino/2023fall-NSec-teamworks/tree/G4-ZhengYang-ZhangHaopeng | 
-|报告链接 | https://github.com/ZhangHaopeng-Dino/2023fall-NSec-teamworks/tree/G4-ZhengYang-ZhangHaopeng/report.md|
+|仓库链接 | https://github.com/ustc-2023-G4-team/compile-final-exp/tree/main | 
+|报告链接 | https://github.com/ustc-2023-G4-team/compile-final-exp/blob/main/report.md |
 | 组员 | 张昊鹏 郑扬   | 
 | 题目 | 对基于milr的DL编译器的相关测评 |
 | 摘要 | 测评基于mlir的DL编译框架(比如onnx-mlir)的相关性能(针对特定计算平台的结果优化程度(CPU，Nvidia GPU)，编译效率和结果的空间资源占用情况)。mlir框架在DL编译方面的生态调研。基于特定硬件的mlir的编译框架搭建和体验 |
