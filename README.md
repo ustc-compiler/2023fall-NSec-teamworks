@@ -57,3 +57,16 @@ For example, if team 0 decides to work on a project named Bla Bla, then they sho
 7. 答辩需要全员参与，原则上需要**线下**。有特殊情况不能线下的，需要事先向老师书面**请假**并得到任课老师**许可**，并**线上**参加。
 
 8. 答辩日期为2024年1月22日。
+
+## 各组仓库链接
+
+| 组号 | 仓库地址                                                      | 选题                             | 汇报                 |
+| ---- | ------------------------------------------------------------ | -------------------------------- | -------------------- |
+| G1   | https://github.com/Syuchin/Investigation-on-defects-of-Deep-Learning-Compiler | 深度学习缺陷测试 | [ppt](./ppt/G1.pptx) |
+| G2   | https://github.com/sxd666/Binary-Security-of-WebAssembly     | WebAssembly的二进制安全性         | [ppt](./ppt/G2.pptx) |
+| G3   | https://github.com/TiDududu/Secode_compile_H                 | 智能生成代码的安全性检测方案构建    | [ppt](./ppt/G3.pptx) |
+| G4   | https://github.com/ustc-2023-G4-team/compile-final-exp/tree/main | 基于milr的DL编译器的相关测评   | [ppt](./ppt/G4.pptx) |
+| G5   | https://github.com/Group-5-for-Compiler-H/Group5-CFI         | LLVM的控制流完整性保护             | [ppt](./ppt/G5.pptx) |
+| G6   | https://github.com/Liyuuu0109/Compiler-Group-6               | 编译器测试                        | [ppt](./ppt/G6.pptx) |
+| G7   | https://github.com/vfalsedom/AICompiler/tree/main            | 深度学习编译优化                  | [ppt](./ppt/G7.pptx) |
+| G8   | https://github.com/WuYuewy/Graph-Query-Language-and-Compilation-Optimization | 图查询语言与编译优化             | [ppt](./ppt/G8.pptx) |
